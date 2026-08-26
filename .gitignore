@@ -1,0 +1,16 @@
+# Dossiers IDE/éditeurs
+.vscode/
+.cursor/
+.claude/
+.idea/
+
+# Node.js
+node_modules/
+
+# Fichiers macOS/Windows
+.DS_Store
+Thumbs.db
+
+# Build Decentraland
+build/
+dist/
